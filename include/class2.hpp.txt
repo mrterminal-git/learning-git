@@ -1,0 +1,1 @@
+change1: adding prototypes to class change for class2.cpp
