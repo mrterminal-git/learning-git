@@ -1,1 +1,2 @@
 change1: adding prototypes to class change for class2.cpp
+change2: adding prototypes to class change for class2.cpp
