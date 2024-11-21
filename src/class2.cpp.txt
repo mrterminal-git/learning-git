@@ -1,3 +1,4 @@
 change 1: adding feature to class
 bugfix1: changed logic of code to fix bug
 change2: adding feature to class to make it faster
+testing cherry-pick commit:
