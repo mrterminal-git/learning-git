@@ -1,1 +1,2 @@
 change 1: adding feature to class
+bugfix1: changed logic of code to fix bug
